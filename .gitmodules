@@ -1,3 +1,6 @@
 [submodule "src/erp-common-basic"]
 	path = src/erp-common-basic
 	url = http://code.starlinke.cn/laite/erp-common-basic.git
+[submodule "submodule1"]
+	path = submodule1
+	url = https://github.com/Wrightlt/submodule1.git
